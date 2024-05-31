@@ -54,19 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project was built using [Next](https://nextjs.org/). Special thanks to the creators and maintainers of these tools.
 
-## Our Team
 
-<div>
-    <img src="https://avatars.githubusercontent.com/u/5115199" width="50px" style="border-radius:50%" />
-    <a href="https://github.com/Shachindra">Shachindra</a>
-</div>
-<br/>
-<div>
-    <img src="https://avatars.githubusercontent.com/u/74105169" width="50px" style="border-radius:50%" />
-    <a href="https://github.com/emily876">Devsi</a>
-</div>
-<br/>
-<div>
-    <img src="https://avatars.githubusercontent.com/u/51229945" width="50px" style="border-radius:50%" />
-    <a href="https://github.com/thisisommore">Om More</a>
-</div>
